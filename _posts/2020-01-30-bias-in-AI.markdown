@@ -1,0 +1,48 @@
+---
+layout: post
+title: Automating Bias in the Age of A.I. - Perpetuating gender discrimination
+date: 2020-01-30 13:32:20 +0300
+description: Uncover hidden bias in newspaper
+img: res_publica.png # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Technology & Society, Talks]
+---
+
+
+On January 30, 2020 Res Publica Europe and EU scream organized a panel discussion on **Artificial Intelligence and Gender Bias** in Brussels. Besides MEP Samira Rafaela, Aikaterini Liakopoulou from EIT Digital and Kajal Odedra from Change.org I was invited as a panelist.
+
+My role was to lay the foundation for the discussion by explaining how bias emerges in machine learning systems. Further, I could bring in the perspective of a machine learning and natural language processing practitioner working for a human rights organisation.
+
+
+
+![Panel discussion]({{site.baseurl}}/assets/img/bias_in_ai.png)
+
+
+
+_ __ __
+
+
+
+#### About the Event
+
+Automated systems based on algorithms are widely used across  industry, media, tech, health, security, crime-prevention and banking.
+
+Yet biased decision-making often is only discovered after it has had the  chance to inflict damage. Amazon introduced automated decision-making in its hiring process in 2014; it was abandoned in 2017 after Amazon could not remedy the inherent gender bias.
+
+There are other examples.  Inaccuracy and bias in algorithmic systems also affect who gets  insurance and how credit scores are calculated; facial recognition  algorithms systematically display racial bias but they still are used by public authorities in Europe.
+
+Machine learning is particularly  opaque because developers cannot easily explain or correct decisions  made by machines. This form of AI uses self-learning algorithms and  these don’t come with an explanation of the parameters a machine may end up using. 
+
+Self-learning algorithms also rely on historical  patterns inferred from past data, and this makes them inherently prone  to existing patterns of societal biases.
+
+There is no silver bullet to eradicate bias in artificial intelligence. But it can be moderated.  Training algorithms on datasets scrubbed of gender and racial bias, for  instance, can help stop the reinforcement of existing inequalities by  this new technology.
+
+_______
+
+
+
+#### More Information
+
+For more information on the even have a look at the [Eventbrite link](https://www.eventbrite.com/e/automating-bias-in-the-age-of-ai-perpetuating-gender-discrimination-tickets-89023237901#).
+
+This [blogpost](https://www.forbes.com/sites/carmenniethammer/2020/03/02/ai-bias-could-put-womens-lives-at-riska-challenge-for-regulators/#1ae0b0e534f2) by Carmen Niethammer gives a good overview on the current situation and the challenge regulators face when it comes to biased AI systems.
