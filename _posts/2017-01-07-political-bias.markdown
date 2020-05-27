@@ -18,12 +18,11 @@ Based on the assumption that media in the US and Russia express diverging opinio
 
 
 
-<embed src="{{site.baseurl}}/assets/pdf/PoliticalBiasesWord2Vec.pdf" width=1000 height=1200 type="application/pdf">
-
-
 ______
 
+The full report can be viewed in pdf format [here](https://github.com/Tilana/tilana.github.io/blob/master/assets/pdf/PoliticalBiasesWord2Vec.pdf).
 
+______
 
 
 
