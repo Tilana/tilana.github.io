@@ -1,0 +1,15 @@
+# Education template
+- layout: left
+  company: Radboud University
+  job_title: Master in Artificial Intelligence
+  dates: Feb 2015 - May 2017
+  quote: "Specialization: Computation in Neural and Artificial Systems"
+  description: With a focus on computational modeling the Master program consists of an intriguing mix of Machine Learning, Bayesian Networks,Text Mining, Cognitive Neuroscience, Philosophy and Ethics courses. 
+
+
+- layout: left
+  company: University of Tübingen
+  job_title: Bachelor in Cognitive Science
+  dates: Oct 2011 - Sep 2014
+  quote: 
+  description: Cognitive Sciencists research the human abilities such as perception, awareness, memory, language, thinking and problem solving. Their goal is to understand, enhance  and to artificially simulate and recreate them.

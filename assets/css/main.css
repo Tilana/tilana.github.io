@@ -220,6 +220,11 @@ svg:not(:root) {
   overflow: hidden;
 }
 
+.hrline {
+	margin-bottom: 40px;
+}
+
+
 /* Forms
    ========================================================================== */
 /**
@@ -1000,6 +1005,46 @@ table tfoot td {
   margin: 0 0 10px;
 }
 
+.menu {
+	margin-top: 100px;
+	height: 100%;
+	overflow: auto;
+	margin-top: 40px;
+}
+
+.menu a {
+	font-size: 16px;
+	display: block;
+	margin: 10px 0 20px;
+	position: relative;
+	text-align: center;
+  color: #333030;
+  font-weight: 700;
+	text-decoration: none;
+}
+
+.menu a.active {
+	background-color: #4CAF50;
+	color: white;
+}
+
+
+.menu a:hover:not(.active) {
+	background-color: #555;
+	color: white;
+}
+
+
+
+.menu .menu-item{
+	font-size: 16px;
+	margin: 10px 0 20px;
+	position: relative;
+	text-align: center;
+  color: #333030;
+  font-weight: 700;
+}
+
 .content-box {
   padding: 20px;
   padding-left: 360px;
@@ -1194,6 +1239,19 @@ a.newer-posts:hover {
           transform: translateX(-5px);
 }
 
+.intro {
+	margin-top: 90px;
+	margin-bottom: 250px;
+	text-align: center
+}
+
+
+.about-section {
+	margin-bottom: 400px;
+	margin-top: 150px;
+}
+	
+
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
 .wrap-content {
   padding: 20px;
@@ -1352,6 +1410,7 @@ a.newer-posts:hover {
   background-color: #ecf0f1;
 }
 
+
 .tag-list span a {
   text-decoration: none;
   color: #263959;
@@ -1361,6 +1420,47 @@ a.newer-posts:hover {
   text-decoration: underline;
   opacity: .8;
 }
+
+.tool {
+	border: 1px solid #ecfof1;
+}
+
+.quote {
+	top-margin: 0px;
+	bottom-margin: 0px;
+}
+
+
+.tool-tag {
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.tool-tag p {
+  text-decoration: none;
+  font-size: 10px;
+  padding: 5px 10px;
+  margin-left: 0px;
+  color: #263959;
+  text-transform: uppercase;
+  border: 1px solid #263959;
+	display: inline;
+}
+
+/* - - - - - - - - - - About Styles - - - - - - - - - - */
+
+.column {
+	float: left;
+}
+
+.left {
+	width: 25%;
+}
+
+.right {
+	width: 70%
+}
+
 
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 /* Medium Devices, Desktops */
