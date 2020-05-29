@@ -4,7 +4,7 @@ title: sense-history
 date: 2020-01-12 13:32:20 +0300
 description: Explore your city from a different perspective. How often do you cross the former Berlin Wall on your way to work? How many trees older than 100 years do you pass? 
 img: berlin_wall.png # Add image post (optional)
-fig-caption: Source: OpenStreetMap# Add figcaption (optional)
+fig-caption: "Source: OpenStreetMap"# Add figcaption (optional)
 tags: [Raspberry Pi, Technology & Society, Maps]
 ---
 
