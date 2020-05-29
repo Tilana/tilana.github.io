@@ -4,14 +4,14 @@ title: MediaUncovered
 date: 2018-09-30 13:32:20 +0300
 description: Uncover hidden bias in newspaper
 img: media.png # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+fig-caption: Photo by Thomas Charters on Unsplash# Add figcaption (optional)
 tags: [NLP, media, Tools]
 ---
 
 
 Free and diverse media is necessary for a well-informed public and a functioning society. However, objective reporting is not possible and sometimes newspapers even favor a certain ideology or political direction.
 
-Even though we are not consciously aware of the presence of reporting biases, such as the tendency to favor arguments of a political party or to constantly set a country in a negative context, they do have  significant influence on our world view, our believes and on who we vote for.
+Even though we are not consciously aware of the presence of reporting biases, such as the tendency to favor arguments of a political party or to constantly set a country in a negative context, they do have  significant influence on our world view, our beliefs and on who we vote for.
 
 The language newspapers use is a powerful tool to draw the attention of readers to a specific topic, to trigger emotions and to shape the public opinion. Do we talk about humans fleeing their country due to war or an invasion of migrants stealing our jobs and housing?
 
@@ -25,7 +25,7 @@ ______
 
 We build MediaUncovered, a free and open-source tool to uncover such hidden biases.
 
-With statistical models it is possible to map millions and millions of newspaper articles into a vector space. In this vector space the relations and similarities of words are captures. This enables us to detect consistent reporting  biases, compare topic coverage and language usage of newspapers and even provide a basis to assess media variety in a country.
+With statistical models it is possible to map millions and millions of newspaper articles into a vector space. In this vector space the relations and similarities of words are captured. This enables us to detect consistent reporting  biases, compare topic coverage and language usage of newspapers and even provide a basis to assess media variety in a country.
 
 We want readers to explore the content and language of newspapers and critically reflect their sources of information. Journalist and media organizations can use the tool to detect and analyze underlying biases  in newspapers, investigate the language used when reporting about a  specific topic, find evidence for media consolidation and advocate for a free and diverse media landscape.
 
@@ -49,7 +49,7 @@ The following links provide more information on word embeddings:
 ### Closely related words
 
 Based on the word embeddings it is possible to determine which words are often used in the same context and are closely related.
-For a media analysis this is helpful to understand the subtle language differences when talking about a specific topic. For example, when talking about migration often words like *flood or invasion of immigrations* are used. They have a negative connation and raise a sensation of helplessness and fear.
+For a media analysis this is helpful to understand the subtle language differences when talking about a specific topic. For example, when talking about migration often words like *flood or invasion of immigrants* are used. They have a negative connotation and raise a sensation of helplessness and fear.
 
 The word clouds below show two examples of words closely related to the keywords *flüchtling* (German: refugee - upper image) and *metoo* (lower image):
 
@@ -61,9 +61,9 @@ The word clouds below show two examples of words closely related to the keywords
 
 ### Mapping Words
 
-Mapping words means to align them on a axis. An axis determines the two extremes of a concept, such as good vs. bad, left-wing vs right-wing, male vs. female, etc.
+Mapping words means to align them on an axis. An axis determines the two extremes of a concept, such as good vs. bad, left-wing vs right-wing, male vs. female, etc.
 
-When an axis is defined it is now possible to map certain keywords on this axis and compare them with others. For example, the first image below show a gender mapping in which the left side represents the female end of the axis and the right side the male extreme. The words on the y-axis are then mapped onto this gender axis and we can see that politics, physics, cars and aggressive are closer associated with men, while art, child, emotional are closer associated with female attributes.
+When an axis is defined it is now possible to map certain keywords on this axis and compare them with others. For example, the first image below shows a gender mapping in which the left side represents the female end of the axis and the right side the male extreme. The words on the y-axis are then mapped onto this gender axis and we can see that politics, physics, cars and aggressive are closer associated with men, while art, child, emotional are closer associated with female attributes.
 
 
 
@@ -73,7 +73,7 @@ When an axis is defined it is now possible to map certain keywords on this axis 
 
 
 
-Word mapping make it possible to identify biases by visualizing the tendency of specific words being closer related to one extreme of a mapping axis.
+Word mappings make it possible to identify biases by visualizing the tendency of specific words being closer related to one extreme of a mapping axis.
 
 
 
@@ -104,7 +104,7 @@ The following images show analogies for *seehofer* is to *merkel* like .... (upp
 
 ## Contact us
 
-Please find the full project code on [Github](https://github.com/MediaUncovered/Documents). 
+Please find the full project code on [GitHub](https://github.com/MediaUncovered/Documents). 
 
 Send us a message to [MediaUncoveredProject@gmail.com](https://github.com/MediaUncovered/Documents/blob/master/MediaUncoveredProject@gmail.com)
 

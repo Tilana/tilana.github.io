@@ -4,7 +4,7 @@ title: Online Discussion - Machine Learning & Human Rights
 date: 2018-06-22 00:00:00 +0000
 description: "Online Discussion Machine Learning and Human Rights - How to Maximize the Impact and Minimize the Risk"
 img: ml-hr.png # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+fig-caption: Photo by Donny Jiang on Unsplash
 tags: [Technology & Society, Machine Learning, Human Rights, Talks]
 ---
 
@@ -32,10 +32,6 @@ Access the full discussion at the [New Tactics Website](https://www.newtactics.o
 
 
 
-
-
-
-(Photo by [Donny Jiang](https://unsplash.com/@dotnny?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/cyber?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))
 
 
 

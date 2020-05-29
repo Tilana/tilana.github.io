@@ -9,7 +9,7 @@ tags: [Technology & Society, Talks]
 ---
 
 
-On January 30, 2020 Res Publica Europe and EU scream organized a panel discussion on **Artificial Intelligence and Gender Bias** in Brussels. Besides MEP Samira Rafaela, Aikaterini Liakopoulou from EIT Digital and Kajal Odedra from Change.org I was invited as a panelist.
+On January 30, 2020 [Res Publica Europa](https://www.respublicaeuropa.eu/) and [EU Scream](https://euscream.com/) organized a panel discussion on **Artificial Intelligence and Gender Bias** in Brussels. Besides MEP Samira Rafaela, Aikaterini Liakopoulou from EIT Digital and Kajal Odedra from Change.org I was invited as a panelist.
 
 My role was to lay the foundation for the discussion by explaining how bias emerges in machine learning systems. Further, I could bring in the perspective of a machine learning and natural language processing practitioner working for a human rights organisation.
 

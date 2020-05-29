@@ -4,6 +4,7 @@ title: semantic search
 date: 2019-11-14 00:00:00 +0300
 description: Semantic Search - Find what you are looking for
 img: semantic_search.jpg # Add image post (optional)
+fig-caption: Photo by Marylou Fortier on Unsplash
 tags: [NLP, Tools] # add tag
 ---
 
@@ -16,7 +17,7 @@ Also, in unfamiliar expert domains, we might not even know the search terms that
 
 Semantic search is a tool to search not only for a specific keyword, but also for associated words and similar concepts.
 
-For example whehttps://fasttext.cc/docs/en/unsupervised-tutorial.htmln searching for *hate speech* phrases with similar concepts, such as *offensive, inflammatory speech, insulting terms, defamation, etc.* appear in the search results.
+For example when searching for *hate speech* phrases with similar concepts, such as *offensive, inflammatory speech, insulting terms, defamation, etc.* appear in the search results.
 
 
 The demo below show the integration of semantic search into [Uwazi](https://github.com/huridocs/uwazi/):
@@ -38,7 +39,7 @@ ____________
 
 While Uwazi provides a UI for semantic search, it is also possible to use the tool in the terminal.
 
-For the code and setup instructions see the [Github repository](https://github.com/Tilana/semantic-search). 
+For the code and setup instructions see the [GitHub repository](https://github.com/Tilana/semantic-search). 
 
 
 
@@ -51,3 +52,4 @@ With fasttext it is easy to adapt the word embeddings to a specific domain, e.g.
 Please note that, due to storage limitations, the model stored in the repository is a dummy model which does not yield reliable search results.
 
 For information on how to train a fasttext model have a look at their documentation on [word representations](https://fasttext.cc/docs/en/unsupervised-tutorial.html).
+

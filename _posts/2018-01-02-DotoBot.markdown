@@ -9,9 +9,9 @@ tags: [Reinforcement Learning, Games] # add tag
 
 
 
-As I couldn't beat my flat mates in playing Dotowheel, I programmed a bot to do this.
+As I couldn't beat my flatmates in playing Dotowheel, I programmed a bot to do this.
 
-This project is hosted at [Github](https://github.com/Tilana/DotoBot/edit/master/README.md).
+This project is hosted at [GitHb](https://github.com/Tilana/DotoBot/edit/master/README.md).
 
 
 
@@ -21,13 +21,12 @@ This project is hosted at [Github](https://github.com/Tilana/DotoBot/edit/master
 
 Place dots on the wheel. When at least three dots with the same number are next to each other they merge to the next higher number. Get as high as possible!
 
-If you run out of empty space on the wheel you loose.
+If you run out of empty space on the wheel you lose.
 
 Joker: Every 5th move you have the possibility to swap two dots.
 
-[![Watch the video](https://github.com/Tilana/DotoBot/blob/master/screenshots/image002.png)](https://youtu.be/gSXJhuXVR-M)
 
-
+<iframe width="780" height="500" src="https://www.youtube.com/embed/gSXJhuXVR-M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
