@@ -1,0 +1,24 @@
+# Fellowship template
+- layout: left-fellowship
+  company: CorrelAid
+  job_title: Data Science for Society Fellowship
+  dates: Apr 2019 - Jun 2019
+  description: CorrelAid is a network of data scientists who provide consultancy, data analysis and trainings for non-profit organisations. The fellowship a diverse team works together with a local non-profit organisation to address their data challenges.
+  
+- layout: left-fellowship
+  company: Vera and Donald Blinken Open Society Archives / European University
+  job_title: Aaron Swartz Fellowship
+  dates: Apr 2018 - Jul 2018
+  description:  The intention of the fellowship is to make knowledge and data broadly available to the public; to rethink information management practices in  libraries and archives and to challenge the control of information by governments and publishers to promote civil liberties and online activism.
+  
+- layout: left-fellowship
+  company: Federal Ministry for Research and Education
+  job_title: PrototypeFund
+  dates: Apr 2019 - Sep 2018
+  description: The Prototype Fund supports ideas in civic tech, data literacy, data security and software infrastructure. Software developers, hackers, and creatives can code and develop innovative open source prototypes. In this round I've been working on MediaUncovered.
+  
+- layout: left-fellowship
+  company: Federal Ministry for Research and Education
+  job_title: PrototypeFund
+  dates: Sep 2017 - Feb 2018
+  description: With UwaziML we focused on supporting human rights organisations with machine learning to help them with their information management challenges. 
