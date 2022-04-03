@@ -34,7 +34,7 @@ A heavy beat and the silence afterwards signals their desetiny.
 
 <div width="80%" align="center" class="audio">
          <audio controls>
-          <source src="{{ site.url }}{{ site.baseurl }}/assets/audio/test.mp3" type="audio/mpeg">
+          <source src="{{ site.url }}{{ site.baseurl }}/assets/audio/mediterranean.mp3" type="audio/mpeg">
            Your browser does not support the audio element.
           </audio> 
 </div>
