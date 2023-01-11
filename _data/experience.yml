@@ -1,14 +1,38 @@
 # Experience template
 - layout: left
+  company: University Leipzig
+  job_title: "Lecturer Data Journalism in Python: A practical introduction into programming"
+  dates: October 2022 - February 2023
+  tools:
+    - teaching
+    - python
+    - data analysis
+    - scraper
+    - API
+  description: | # this will include new lines to allow paragraphs
+    Data Journalism in Python is a practical introduction into programming specifically designed for journalists. Besides the basic syntax in Python, the course covers the data processing and analysis, visualization, as well as accessing data via API or scraping it.
+
+- layout: left
+  company: ida
+  job_title: Teamlead Data Science
+  dates: since September 2020
+  tools:
+    - automation
+    - machine learning
+    - data analysis
+    - business intelligence
+  description: | # this will include new lines to allow paragraphs
+    The goal of the data science team at ida is to explore the full potential of AI and automation to open up possibilities and to empower journalists. More concrete tasks include the automated reporting of election results, supporting community manager in efficiently responding to false claims, making information accessible in simple language, as well as analysing the usage of ppublished articles.
+
+
+- layout: left
   company: HURIDOCS
   job_title: NLP & ML Specialist
   dates: Feb 2016 - Apr 2020
   tools:
-    - python
-    - tensorflow
-    - mongoDB
-    - nltk
-    - Google Cloud Platform
+    - human rights 
+    - NLP
+    - machine learning
   description: | # this will include new lines to allow paragraphs
    I've been working with HURIDOCS to support human rights defenders with technology. In order to make machine learning and natural language processing accessible to human rights organizations, I built state-of-the-art tools to extract, filter and connect relevant information in large document collections. My responsibilities included the communication of our methodology and results to external partners. Intenmally, I laid the foundations for a conceptual understanding of machine learning with its possibilities and limitations and helped to integrate it into the long-term strategy of HURIDOCS.
 
@@ -18,11 +42,9 @@
   job_title: Web App Development
   dates: Sep 2018 - Sep 2019
   tools:
+    - web development
+    - database
     - Angular
-    - Python
-    - Typescript
-    - docker
-    - SQLAlchemy
   description: | # this will include new lines to allow paragraphs
    Within this part-time work I had the opporutnity to learn the basics of web application development with Angular. The goal was to create an interactive website to fill in customer information, retrieve respective data from a server and based on their combination compute and visualize a customer's costs. This freelance work taught me so much about code architecture, object oriented programming and time managment.
 
@@ -32,12 +54,9 @@
   job_title: Data Analyst
   dates: Apr 2018 - Sep 2018
   tools:
-    - python
-    - flask
-    - word2vec
-    - docker
-    - fasttext
-    - postgresql
+    - bias
+    - machine learning
+    - NLP
   description: | # this will include new lines to allow paragraphs
     With the support of the Prototype Fund I had the opportunity to dedicate a lot of time to MediaUncovered. This project included everything from scraping data, storing and analyzing large collections of texts, working with word embeddings, researching new methods to compare statistical models up to building an interactive web app with appealing and understandable visuals.
 
