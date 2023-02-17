@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Automatisierte Wahlberichterstattung - Landtagswahl 2021 in Sachsen-Anhalt"
+date: 2021-06-07 12:00:00 +0300
+description: 
+img: automatisierte_texte.png # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Datajournalism, Automation, NLP]
+---
+
+Wahlen sind der Grundstein unserer Demokratie.
+
+Und egal ob Bundestags-, Landtags- oder Kommunalwahlen: Menschen wollen nicht nur wissen welche Partei insgesamt führt, sondern die Ergebnisse in ihrer Gemeinde. Am besten schön aufbereitet und in Kontext zu vorherigen Wahlen gesetzt.
+Doch hunderte Artikel an einem Abend zu verfassen und diese mit den neuen Zwischenergebnissen zu aktualisieren, kann keine Redaktion leisten.
+
+Die Lösung: Automatisierte Wahlberichterstattung.
+Bei der Landtagswahl 2021 in Sachsen-Anhalt haben wir einen ersten Versuch gestartet.
+Im Vorfeld haben wir Hintergrundinformationen zu Direktkandidat:innen und regionale Besonderheiten, wie Parteihochburgen in Gemeinden oder Wahlkreisen recherchiert.
+
+Am Wahlabend selbst werden diese - je nach Wahlergebnis - mit vorbereiteten Textbausteine zusammengebastelt.
+
+Mehr Infos über die Texte, unsere Learnings und den dazugehörigen Open Source Code gibt es hier:
+
+- [Warum wir automatisierte Wahlberichte für Gemeinden und Wahlkreise anbieten](https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/warum-wir-automatisierte-wahlberichte-fuer-gemeinden-und-wahlkreise-anbieten-100.html)
+- [Automatisierte Wahlberichte: Warum wir den Code veröffentlichen](https://www.mdr.de/nachrichten/sachsen-anhalt/landtagswahl/was-wir-gerlernt-haben-code-veroeffentlicht-automatisierte-berichte-zur-landtagswahl-100.html)
+- [Code](https://github.com/ida-space/automated-election-reporting-de)
+
+
