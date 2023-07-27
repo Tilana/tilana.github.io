@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Studio Bloc Masters - A Data Driven Perspective at the Boulder Competition
-date: 2022-11-01 10:12:00 +0300
+date: 2023-04-01 10:12:00 +0300
 description: 
 img: bloc_masters_header.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
