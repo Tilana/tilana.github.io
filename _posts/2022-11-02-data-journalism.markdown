@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data journalism in Python - A practical introduction into programming 
-date: 2022-11-01 10:12:00 +0300
+date: 2023-01-04 12:39:00 +0300
 description: 
 img: datajournalism.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
