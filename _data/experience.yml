@@ -1,5 +1,29 @@
 # Experience template
 - layout: left
+  company: Freelance
+  job_title: Data Journalist / Specialist
+  dates: since 2024
+  tools:
+    - data journalism
+    - data analysis
+    - visualization
+    - machine learning
+  description: | # this will include new lines to allow paragraphs
+    I work as a freelancer for various clients
+
+- layout: left
+  company: SWR Data Lab
+  job_title: Data Journalist
+  dates: since October 2023
+  tools:
+    - python
+    - data Journalism
+    - scraper
+    - investigations
+  description: |
+    In the SWR Data Lab I build scrapers, analyze data and support investigations with technical tools.
+
+- layout: left
   company: University Leipzig
   job_title: "Lecturer Data Journalism in Python: A practical introduction into programming"
   dates: October 2022 - February 2023
