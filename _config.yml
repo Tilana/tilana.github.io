@@ -10,11 +10,11 @@ url: "https://tilana.github.io" # the base hostname & protocol for your site, e.
 author: Natalie Widmann # add your name
 author-img: profile-pic2.png # add your photo
 about-author: Data Journalist - using data and technology to support investigations # add description
-social-twitter:# tilana145 # add your Twitter handle
+social-twitter: # tilana145 # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: tilana # add your Github handle
 social-linkedin: natalie-widmann-5241191aa/ # add your Linkedin handle
-social-email: natalie_widmann[at]posteo.net # add your Email address
+social-email: natalie_widmann@posteo.net # add your Email address
 
 # Tracker
 analytics: # Google Analytics
