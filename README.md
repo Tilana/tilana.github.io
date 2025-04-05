@@ -1,36 +1,26 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+# tilana
 
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
+This is the base for my personal website [tilana.github.io](https://tilana.github.io).
 
-## Demo
+The jekyll theme is forked from [https://github.com/rhiannon-io/rhiannon-io.github.io](https://github.com/rhiannon-io/rhiannon-io.github.io) and GitHub Pages is used for hosting.
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
 
-The main page would look like this:
+## Testing locally
 
-![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
+To test locally, `jekyll` needs to be installed. Follow the instructions [here](https://jekyllrb.com/docs/installation/).
 
-The post page would look like this:
+Then, run the following commands:
+"""
+    bundle install
+    bundle exec jekyll serve
+    """
 
-![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
 
-## Features
+## Deployment:
 
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
-- [Analytics](https://analytics.google.com/analytics/web/)
-- Support Emoji
+With every push to the ``master`` branch, the build with Gihub Actions is triggered.
 
-## Installation:
-
-Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
 
 ## License
 
 GNU General Public License v3.0
-
-## Donate
-
-<p>If you like the themes that I create you can become my sponsor on <a href="https://www.patreon.com/artemsheludko" target="_blank">Patreon</a>.
-<p align="center"><b>Thank you for your support ❤️</b></p>
