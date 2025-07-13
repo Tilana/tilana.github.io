@@ -1,0 +1,6 @@
+<div class="container experience-container">
+	<h2> {{ site.experience_title | default: "Fellowships & Grants" }}</h2>
+	{% for fellowship in site.data.fellowship %}
+		{% include {{ fellowship.layout | append: ".html"}} item=fellowship %}
+	{% endfor %}
+</div>

@@ -1,0 +1,6 @@
+<div class="container experience">
+	<h2> {{ site.education_title | default: "Education" }}</h2>
+	{% for education in site.data.education %}
+		{% include {{ education.layout | append: ".html"}} item=education %}
+	{% endfor %}
+</div>
