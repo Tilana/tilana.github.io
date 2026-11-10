@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TTrotz gesetzlicher Pflicht - Verbrauch vieler Rechenzentren nicht öffentlich einsehbar
+title: Trotz gesetzlicher Pflicht - Verbrauch vieler Rechenzentren nicht öffentlich einsehbar
 date: 2026-11-06 10:00:00 +0300
 description: 
 img: rechenzentren.png # Add image post (optional)
